@@ -33,8 +33,8 @@ A Next.js-based AI agent that conducts mock interviews using **Vapi (Voice Agent
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/yourusername/ai-mock-interview-agent.git
-cd ai-mock-interview-agent
+git clone https://github.com/yashmahto/interviewPre.git
+
 
 ```
 
