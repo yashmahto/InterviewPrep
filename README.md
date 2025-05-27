@@ -49,4 +49,7 @@ NEXT_PUBLIC_VAPI_API_KEY=your_vapi_key
 
 npm run dev
 
+Live Link:
+https://interview-prep-gules-theta.vercel.app/
+
 
